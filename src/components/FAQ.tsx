@@ -1,0 +1,7 @@
+const faqs = [
+  ["Do you offer in-person and online sessions?", "Yes. I offer in-person therapy from my Santa Monica office as well as secure telehealth sessions for adults located in California."],
+  ["What do you help with?", "My work often focuses on anxiety, panic, trauma, burnout, perfectionism, and high internal pressure, particularly for adults who feel functional on the outside while struggling internally."],
+  ["What approaches do you use?", "I integrate cognitive-behavioral therapy (CBT), EMDR, mindfulness-based practices, and body-oriented techniques, adapting the work to each client."],
+  ["What is trauma work like?", "Trauma work is paced carefully, with an emphasis on safety and stabilization. The goal is to help you feel more regulated in daily life, not just during sessions."],
+];
+export default function FAQ() { return <section id="faq" className="bg-secondary/50 py-20 md:py-24"><div className="mx-auto max-w-3xl px-6"><p className="text-center text-sm font-medium uppercase tracking-[0.18em] text-accent">Questions</p><h2 className="mt-3 text-center font-serif text-3xl text-primary-dark md:text-4xl">Frequently Asked Questions</h2><div className="mt-10 divide-y divide-primary/10">{faqs.map(([q,a]) => <details key={q} className="group py-5"><summary className="cursor-pointer list-none pr-8 font-serif text-lg text-primary-dark marker:hidden">{q}<span className="float-right text-accent transition group-open:rotate-45">+</span></summary><p className="mt-3 text-sm leading-7 text-foreground/70">{a}</p></details>)}</div></div></section>; }
