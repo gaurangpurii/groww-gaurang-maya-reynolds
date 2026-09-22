@@ -5,7 +5,7 @@
 - `public/images/office/office-1.jpeg` — supplied office photograph from the Dr. Maya Reynolds profile.
 - `public/images/office/office-2.jpeg` — supplied office photograph from the Dr. Maya Reynolds profile.
  
-## Supporting photography 
+## Supporting photography  
 The supporting photographs are from Pexels and are used as decorative/editorial imagery for the redesigned sections. They are not presented as Dr. Maya Reynolds or as her clients.
 
 - Journaling / reflection: https://www.pexels.com/photo/woman-writing-in-journal-by-a-window-37129604/ 
