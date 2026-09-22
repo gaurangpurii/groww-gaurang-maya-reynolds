@@ -1,6 +1,6 @@
 # Image credits
 
-## Supplied profile assets
+## Supplied profile assets 
 - `public/images/maya-portrait.png` — Dr. Maya Reynolds profile portrait supplied for the assessment.
 - `public/images/office/office-1.jpeg` — supplied office photograph from the Dr. Maya Reynolds profile.
 - `public/images/office/office-2.jpeg` — supplied office photograph from the Dr. Maya Reynolds profile.
