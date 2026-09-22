@@ -8,7 +8,7 @@
 ## Supporting photography 
 The supporting photographs are from Pexels and are used as decorative/editorial imagery for the redesigned sections. They are not presented as Dr. Maya Reynolds or as her clients.
 
-- Journaling / reflection: https://www.pexels.com/photo/woman-writing-in-journal-by-a-window-37129604/
+- Journaling / reflection: https://www.pexels.com/photo/woman-writing-in-journal-by-a-window-37129604/ 
 - Stress / burnout: https://www.pexels.com/photo/stressed-professional-woman-9063397/
 - Therapy session: https://www.pexels.com/photo/crop-psychologist-consulting-patient-in-office-7176027/
 - Burnout / pressure: https://www.pexels.com/photo/a-woman-touching-her-forehead-6173659/
