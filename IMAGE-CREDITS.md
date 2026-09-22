@@ -16,3 +16,4 @@ The supporting photographs are from Pexels and are used as decorative/editorial 
 - Quiet reflection: https://www.pexels.com/photo/a-woman-sitting-on-the-window-sill-writing-on-a-paper-8997899/
 - Therapy approach: https://www.pexels.com/photo/therapist-checking-notes-3958398/
  
+ 
