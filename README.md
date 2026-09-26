@@ -2,7 +2,7 @@
 
 Built for the Grow My Therapy Stage 2 internship assignment: a structural recreation of the Conejo Valley Family Counseling homepage, redesigned around Dr. Maya Reynolds' fictional profile.
 
-## Run locally
+## Run locally 
 
 ```bash
 npm install
