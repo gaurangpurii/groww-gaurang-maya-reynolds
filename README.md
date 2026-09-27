@@ -6,7 +6,7 @@ Built for the Grow My Therapy Stage 2 internship assignment: a structural recrea
 
 ```bash
 npm install
-npm run dev
+npm run dev 
 ```
  
 Open http://localhost:3000 
