@@ -4,7 +4,7 @@ Built for the Grow My Therapy Stage 2 internship assignment: a structural recrea
 
 ## Run locally  
    
-```bash
+```bash 
 npm install
 npm run dev 
 ```
